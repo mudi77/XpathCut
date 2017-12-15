@@ -1,7 +1,7 @@
 # XpathCut
 Chrome plugin for easy retrieve xpaths useful for automation projects  
  
-### Tech : 
+### Tech stack : 
 
   - JS
   - Shadow DOM
